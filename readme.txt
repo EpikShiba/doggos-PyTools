@@ -1,7 +1,11 @@
 Hello, this is how to setup doggo tools. Doggos tools uses python, so make sure you have python installed.
 
+
+
 To install python, go to: https://www.python.org/downloads/ 
 and click download.
+
+Then, Unzip the doggo PyTools folder.
 
 
 next, you want to double click the doggosetup.bat file. This will open cmd prompt and sta, and install requests module. after
