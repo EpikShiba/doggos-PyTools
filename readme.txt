@@ -6,7 +6,7 @@ and click download.
 Then, Unzip the doggo PyTools folder.
 
 
-next, you want to double click the doggosetup.bat file. This will open cmd prompt and sta, and install requests module. after
+next, you want to double click the doggosetup.bat file. This will open cmd prompt and start, and install requests module. after
 it installs the module, it will instantly open doggo.py (the main file)
 
 
