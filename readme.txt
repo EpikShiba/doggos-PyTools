@@ -1,7 +1,5 @@
 Hello, this is how to setup doggo tools. Doggos tools uses python, so make sure you have python installed.
 
-
-
 To install python, go to: https://www.python.org/downloads/ 
 and click download.
 
